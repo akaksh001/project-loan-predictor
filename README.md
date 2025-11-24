@@ -154,14 +154,14 @@ loan-approval-prediction/
 
 ### File Descriptions
 
-| File | Purpose |
-|------|---------|
-| `1_create_data.py` | Generates 500 synthetic loan applications |
-| `2_train_model.py` | Trains Random Forest ML model (87% accuracy) |
-| `3_predictor.py` | Contains prediction logic and test cases |
-| `4_app.py` | Creates interactive web interface (Gradio) |
-| `requirements.txt` | Python package dependencies |
-| `README.md` | Project documentation (this file) |
+|    File           |                  Purpose                     |
+|-------------------|----------------------------------------------|
+| `datasets.py`     | Generates 500 synthetic loan applications    |
+| `train_model.py`  | Trains Random Forest ML model (87% accuracy) |
+| `prediction.py`   | Contains prediction logic and test cases     |
+| `interface.py`    | Creates interactive web interface (Gradio)   |
+| `requirement.txt` | Python package dependencies                  |
+| `README.md`       | Project documentation (this file)            |
 
 ---
 
@@ -238,7 +238,7 @@ Which factors matter most for approval?
 
 ## 📸 Screenshots
 
-### Homepage with Input Sliders
+### Homepage 
 ![Homepage](screenshots/homepage.png)
 *Clean interface on web* 
 
