@@ -243,11 +243,11 @@ Which factors matter most for approval?
 *Clean interface on web* 
 
 ### Approved Case
-![Approved](screenshots/approved.png)
+![Approved](screenshots/approvedcase.png)
 *applicant gets instant approval*
 
 ### Rejected Case
-![Rejected](screenshots/rejected.png)
+![Rejected](screenshots/rejectedcase.png)
 *applicatn gets rejected with reasons and improvement tips*
 
 ### Terminal Output
